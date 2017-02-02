@@ -1,6 +1,6 @@
 ## Entry point
 
--keep public class my.game.pkg.Main
+-keep public class Main
 
 ## LibGDX
 
